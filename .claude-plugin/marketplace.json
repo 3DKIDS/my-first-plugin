@@ -11,7 +11,7 @@
     {
       "name": "my-first-plugin",
       "description": "기본 사항을 배우기 위한 Claude Code 인사말 플러그인 (Hello & Code Review skills)",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "author": {
         "name": "JONGWON SEO",
         "email": "3dkids4u@gmail.com"
@@ -28,5 +28,5 @@
       ]
     }
   ],
-  "version": "1.0.0"
+  "version": "1.1.0"
 }
