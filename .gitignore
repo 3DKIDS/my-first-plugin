@@ -1,3 +1,6 @@
 .omc/
 logs/
 *.log
+.lsp.json
+agent/
+monitors/
