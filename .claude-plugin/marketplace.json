@@ -1,0 +1,32 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "my-first-plugin",
+  "description": "lovetang의 Claude Code 플러그인 모음 - 학습용 인사말 및 코드 리뷰 스킬",
+  "owner": {
+    "name": "JONGWON SEO",
+    "email": "3dkids4u@gmail.com",
+    "url": "https://github.com/3DKIDS"
+  },
+  "plugins": [
+    {
+      "name": "my-first-plugin",
+      "description": "기본 사항을 배우기 위한 Claude Code 인사말 플러그인 (Hello & Code Review skills)",
+      "version": "1.0.0",
+      "author": {
+        "name": "JONGWON SEO",
+        "email": "3dkids4u@gmail.com"
+      },
+      "source": "./",
+      "category": "productivity",
+      "homepage": "https://github.com/3DKIDS/my-first-plugin",
+      "tags": [
+        "hello",
+        "greeting",
+        "code-review",
+        "learning",
+        "beginner"
+      ]
+    }
+  ],
+  "version": "1.0.0"
+}

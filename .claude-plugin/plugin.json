@@ -1,0 +1,25 @@
+{
+  "name": "my-first-plugin",
+  "description": "기본 사항을 배우기 위한 Claude Code 인사말 플러그인 (Hello & Code Review skills)",
+  "version": "1.0.0",
+  "author": {
+    "name": "JONGWON SEO",
+    "email": "3dkids4u@gmail.com",
+    "url": "https://github.com/3DKIDS"
+  },
+  "repository": "https://github.com/3DKIDS/my-first-plugin",
+  "homepage": "https://github.com/3DKIDS/my-first-plugin",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "plugin",
+    "hello",
+    "greeting",
+    "code-review",
+    "learning"
+  ],
+  "skills": [
+    "./skills/hello/",
+    "./skills/code-review/"
+  ]
+}
